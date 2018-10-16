@@ -6,4 +6,6 @@
 
 [page01](page01)
 
-[man](dir1/index.html)
+[dir1](dir1/index.html)
+
+[dir2](dir2/d2)
